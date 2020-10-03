@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-03T02:22:14.510Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3776.400 QQBrowser/10.6.4212.400" etag="6NRmsGqhRQ10oLEe4WXg" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-03T02:22:42.590Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3776.400 QQBrowser/10.6.4212.400" etag="VqHI3DpBEAYyy4NI1wC3" version="13.7.7" type="github">
   <diagram id="uigLghQHmSktTnQ-FTU0" name="Page-1">
     <mxGraphModel dx="901" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="VzdYGSw835GtBNg3_MaB-1" value="" style="rounded=1;whiteSpace=wrap;strokeWidth=2;fontSize=14;fontStyle=0;fontFamily=Helvetica;verticalAlign=middle;horizontal=1;spacing=0;dashed=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="190" y="60" width="590" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="VzdYGSw835GtBNg3_MaB-3" value="访问层" style="rounded=1;whiteSpace=wrap;strokeWidth=2;fontSize=14;fontStyle=1;fontFamily=Helvetica;verticalAlign=middle;horizontal=1;spacing=0;dashed=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+        <mxCell id="VzdYGSw835GtBNg3_MaB-3" value="访问层&#xa;PC、移动端" style="rounded=1;whiteSpace=wrap;strokeWidth=2;fontSize=14;fontStyle=1;fontFamily=Helvetica;verticalAlign=middle;horizontal=1;spacing=0;dashed=1;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="30" y="60" width="140" height="130" as="geometry" />
         </mxCell>
         <mxCell id="VzdYGSw835GtBNg3_MaB-4" value="小程序" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;strokeWidth=2;fillColor=#ffe6cc;verticalAlign=top;fontSize=14;fontStyle=1" vertex="1" parent="1">
