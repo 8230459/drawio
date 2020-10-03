@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-03T03:18:20.183Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3776.400 QQBrowser/10.6.4212.400" etag="prPqoyXMbV4jfhx6FfLo" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-03T03:19:40.061Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3776.400 QQBrowser/10.6.4212.400" etag="Id9f0OrDOCjTziozzaDU" version="13.7.7" type="github">
   <diagram id="uigLghQHmSktTnQ-FTU0" name="Page-1">
-    <mxGraphModel dx="901" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="360" dy="248" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="VzdYGSw835GtBNg3_MaB-11" value="lodash" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#82b366;strokeWidth=2;fontSize=15;dashed=1;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="360" y="164" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VzdYGSw835GtBNg3_MaB-64" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;fontColor=#333333;" edge="1" parent="1" source="VzdYGSw835GtBNg3_MaB-12" target="VzdYGSw835GtBNg3_MaB-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VzdYGSw835GtBNg3_MaB-12" value="vue" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#9673a6;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;" vertex="1" parent="1">
           <mxGeometry x="521.5" y="164" width="90" height="50" as="geometry" />
@@ -99,6 +102,9 @@
         </mxCell>
         <mxCell id="VzdYGSw835GtBNg3_MaB-60" value="nodejs+koa2" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;strokeWidth=2;fillColor=#e1d5e7;verticalAlign=middle;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="250" y="580" width="330" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VzdYGSw835GtBNg3_MaB-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=21;fontColor=#333333;" edge="1" parent="1" source="VzdYGSw835GtBNg3_MaB-61" target="VzdYGSw835GtBNg3_MaB-60">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VzdYGSw835GtBNg3_MaB-61" value="pm2" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;strokeWidth=2;fillColor=#fff2cc;verticalAlign=middle;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="600" y="580" width="110" height="50" as="geometry" />
