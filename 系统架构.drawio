@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-03T03:09:17.961Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3776.400 QQBrowser/10.6.4212.400" etag="w04ipdbko7J0glJ1_tAk" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-03T03:09:45.764Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3776.400 QQBrowser/10.6.4212.400" etag="NdocrTs9HfW8KFNabJf7" version="13.7.7" type="github">
   <diagram id="uigLghQHmSktTnQ-FTU0" name="Page-1">
     <mxGraphModel dx="901" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,10 +88,10 @@
         <mxCell id="VzdYGSw835GtBNg3_MaB-55" value="&lt;b&gt;elastic&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;strokeColor=#d6b656;strokeWidth=2;fontSize=15;fillColor=#fff2cc;gradientColor=#ffd966;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="605" y="680" width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="VzdYGSw835GtBNg3_MaB-56" value="测试云" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#808080;strokeWidth=1;fontSize=14;fontColor=#FF3399;" vertex="1" parent="1">
+        <mxCell id="VzdYGSw835GtBNg3_MaB-56" value="测试云" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#808080;strokeWidth=1;fontSize=14;fontColor=#CC6600;" vertex="1" parent="1">
           <mxGeometry x="310" y="832" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VzdYGSw835GtBNg3_MaB-57" value="正式云" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#808080;strokeWidth=1;fontSize=14;fontColor=#CC6600;" vertex="1" parent="1">
+        <mxCell id="VzdYGSw835GtBNg3_MaB-57" value="正式云" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;strokeColor=#808080;strokeWidth=1;fontSize=14;fontColor=#336600;" vertex="1" parent="1">
           <mxGeometry x="540" y="832" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
