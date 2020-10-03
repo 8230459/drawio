@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-03T02:46:40.054Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3776.400 QQBrowser/10.6.4212.400" etag="dut9K4cPyutJVlk4hbEX" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-03T02:47:57.560Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3776.400 QQBrowser/10.6.4212.400" etag="-vJkxnZCV8ZMV_GdcJhs" version="13.7.7" type="github">
   <diagram id="uigLghQHmSktTnQ-FTU0" name="Page-1">
     <mxGraphModel dx="901" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,28 +32,22 @@
           <mxGeometry x="631.5" y="110" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VzdYGSw835GtBNg3_MaB-14" value="RESTful API" style="rounded=1;whiteSpace=wrap;strokeWidth=2;fontSize=17;fontStyle=1;fontFamily=Helvetica;verticalAlign=top;horizontal=1;spacing=0;dashed=1;strokeColor=#56517e;fillColor=#d0cee2;" vertex="1" parent="1">
-          <mxGeometry x="190" y="360" width="590" height="100" as="geometry" />
+          <mxGeometry x="190" y="370" width="590" height="100" as="geometry" />
         </mxCell>
         <mxCell id="VzdYGSw835GtBNg3_MaB-15" value="展示层&#xa;http、https" style="rounded=1;whiteSpace=wrap;strokeWidth=2;fontSize=14;fontStyle=1;fontFamily=Helvetica;verticalAlign=middle;horizontal=1;spacing=0;dashed=1;strokeColor=#56517e;fillColor=#d0cee2;" vertex="1" parent="1">
-          <mxGeometry x="30" y="360" width="140" height="100" as="geometry" />
+          <mxGeometry x="30" y="370" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="VzdYGSw835GtBNg3_MaB-16" value="koa2-router：get、post" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0e8088;strokeWidth=2;fillColor=#b0e3e6;verticalAlign=middle;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="230" y="394" width="320" height="50" as="geometry" />
+          <mxGeometry x="230" y="404" width="320" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VzdYGSw835GtBNg3_MaB-24" value="webscoket" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#10739e;strokeWidth=2;fillColor=#b1ddf0;verticalAlign=middle;fontSize=16;fontStyle=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="394" width="170" height="50" as="geometry" />
+          <mxGeometry x="570" y="404" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VzdYGSw835GtBNg3_MaB-26" value="" style="rounded=1;whiteSpace=wrap;strokeWidth=2;fontSize=17;fontStyle=1;fontFamily=Helvetica;verticalAlign=top;horizontal=1;spacing=0;dashed=1;strokeColor=#56517e;fillColor=#d0cee2;" vertex="1" parent="1">
-          <mxGeometry x="190" y="478" width="590" height="100" as="geometry" />
+        <mxCell id="VzdYGSw835GtBNg3_MaB-26" value="" style="rounded=1;whiteSpace=wrap;strokeWidth=2;fontSize=17;fontStyle=1;fontFamily=Helvetica;verticalAlign=top;horizontal=1;spacing=0;dashed=1;strokeColor=#36393d;fillColor=#cdeb8b;" vertex="1" parent="1">
+          <mxGeometry x="190" y="500" width="590" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="VzdYGSw835GtBNg3_MaB-27" value="业务层" style="rounded=1;whiteSpace=wrap;strokeWidth=2;fontSize=14;fontStyle=1;fontFamily=Helvetica;verticalAlign=middle;horizontal=1;spacing=0;dashed=1;strokeColor=#56517e;fillColor=#d0cee2;" vertex="1" parent="1">
-          <mxGeometry x="30" y="478" width="140" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="VzdYGSw835GtBNg3_MaB-28" value="koa2-router：get、post" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0e8088;strokeWidth=2;fillColor=#b0e3e6;verticalAlign=middle;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="230" y="512" width="320" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="VzdYGSw835GtBNg3_MaB-29" value="webscoket" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#10739e;strokeWidth=2;fillColor=#b1ddf0;verticalAlign=middle;fontSize=16;fontStyle=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="512" width="170" height="50" as="geometry" />
+        <mxCell id="VzdYGSw835GtBNg3_MaB-27" value="业务层" style="rounded=1;whiteSpace=wrap;strokeWidth=2;fontSize=14;fontStyle=1;fontFamily=Helvetica;verticalAlign=middle;horizontal=1;spacing=0;dashed=1;strokeColor=#36393d;fillColor=#cdeb8b;" vertex="1" parent="1">
+          <mxGeometry x="30" y="500" width="140" height="260" as="geometry" />
         </mxCell>
         <mxCell id="VzdYGSw835GtBNg3_MaB-30" value="" style="rounded=1;whiteSpace=wrap;strokeWidth=2;fontSize=17;fontStyle=1;fontFamily=Helvetica;verticalAlign=top;horizontal=1;spacing=0;dashed=1;strokeColor=#0e8088;fillColor=#b0e3e6;" vertex="1" parent="1">
           <mxGeometry x="190" y="220" width="590" height="120" as="geometry" />
@@ -62,10 +56,10 @@
           <mxGeometry x="30" y="220" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="VzdYGSw835GtBNg3_MaB-33" value="nginx &lt;br style=&quot;font-size: 15px;&quot;&gt;负载均衡、反向代理" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#ae4132;strokeWidth=2;fontSize=15;fillColor=#fad9d5;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="230" y="240" width="240" height="80" as="geometry" />
+          <mxGeometry x="230" y="240" width="320" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VzdYGSw835GtBNg3_MaB-34" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;node&lt;br style=&quot;font-size: 15px;&quot;&gt;静态资源&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#36393d;strokeWidth=2;fontSize=15;fillColor=#cce5ff;" vertex="1" parent="1">
-          <mxGeometry x="500" y="240" width="240" height="80" as="geometry" />
+          <mxGeometry x="570" y="240" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
