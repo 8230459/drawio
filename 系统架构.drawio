@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-05T08:20:34.857Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3776.400 QQBrowser/10.6.4212.400" etag="EM-E89bT8AJ2xCI_x7WD" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-10T02:02:12.247Z" agent="5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3776.400 QQBrowser/10.6.4212.400" etag="6-XN5BcnWuwxbx4a0r9_" version="13.7.9" type="github">
   <diagram id="uigLghQHmSktTnQ-FTU0" name="Page-1">
     <mxGraphModel dx="901" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,8 +13,8 @@
         <mxCell id="VzdYGSw835GtBNg3_MaB-4" value="小程序" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d79b00;strokeWidth=2;fillColor=#ffe6cc;verticalAlign=top;fontSize=14;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="236" y="100" width="243" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="VzdYGSw835GtBNg3_MaB-8" value="mpvue" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#9673a6;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;" parent="1" vertex="1">
-          <mxGeometry x="259" y="135" width="90" height="50" as="geometry" />
+        <mxCell id="VzdYGSw835GtBNg3_MaB-8" value="weui" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#9673a6;strokeWidth=2;fontSize=15;fillColor=#e1d5e7;" parent="1" vertex="1">
+          <mxGeometry x="259" y="135" width="91" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VzdYGSw835GtBNg3_MaB-9" value="lodash" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#82b366;strokeWidth=2;fontSize=14;dashed=1;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="369" y="135" width="90" height="50" as="geometry" />
